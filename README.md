@@ -28,16 +28,12 @@ flutter_slidable for swipe actions
 To run this app locally:
 
 to run this app:
-git clone https://github.com/your-username/flutter-todo-app.git
-cd flutter-todo-app
-flutter pub get
-flutter run
+![image](https://github.com/user-attachments/assets/decebf2f-20d2-4579-96f8-f4db3d6fc7d6)
+
 
 📦 Dependencies
-flutter_slidable: ^3.0.0
-hive: ^2.2.3
-hive_flutter: ^1.1.0
-path_provider: ^2.0.11
+![image](https://github.com/user-attachments/assets/74e68027-5c1a-41f2-a8ee-dca7aead8aee)
+
 
 💡 Inspiration
 Created as part of a personal growth journey into mastering Flutter, this app demonstrates basic to intermediate level Flutter skills including UI design, state management, and local persistence.
