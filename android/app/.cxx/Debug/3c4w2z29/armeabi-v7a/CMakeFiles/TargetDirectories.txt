@@ -1,0 +1,2 @@
+C:/Users/pc/Documents/flutter/Jusdo/jusdo/android/app/.cxx/Debug/3c4w2z29/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/pc/Documents/flutter/Jusdo/jusdo/android/app/.cxx/Debug/3c4w2z29/armeabi-v7a/CMakeFiles/rebuild_cache.dir
